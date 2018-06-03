@@ -1,0 +1,27 @@
+5
+kiev
+4
+2 250
+3 800
+4 400
+5 1000
+kharkiv
+2
+1 250
+3 100
+dnepr
+3
+1 800
+2 100
+4 200
+odessa
+3
+1 400
+3 200
+5 500
+lviv
+2
+1 1000
+4 600
+kiev dnepr
+kharkiv lviv
